@@ -27,6 +27,7 @@ int main()
 
 	}
 	cout<<"\n";
-	cout<<"Smallest : "<<min<<" Largest : "<<max;
+	cout<<"Smallest : "<<min<<" Largest : "<<max<<endl;
+	cout<<"Range : "<<max-min<<endl;
 	return 0;
 }
